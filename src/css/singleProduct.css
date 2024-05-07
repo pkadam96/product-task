@@ -1,0 +1,30 @@
+.productDetails{
+    width: 60%;
+    margin: auto;
+    border: 2px solid ;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    padding: 20px;
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image img{
+    width: 200px;
+}
+
+.product-title{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+
+.details p{
+    margin-top: 15px;
+}
